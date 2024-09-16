@@ -46,3 +46,4 @@ None at this time.
 
 * https://github.com/CJ237
 * You can reach me if you have any further questions by email: cjthompson562@gmail.com
+* A walkthrough vidow link of the project: https://drive.google.com/file/d/1J-E3h2Clc7LGw7CbmrGsdfS25XuobXuX/view
